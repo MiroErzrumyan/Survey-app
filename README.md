@@ -2,8 +2,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/MiroErzrumyan/Survey-app.git
+   cd Survey-app
    composer install
    cp .env.example .env
    php artisan key:generate
